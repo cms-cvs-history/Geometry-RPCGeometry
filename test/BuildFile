@@ -1,9 +1,0 @@
-<use name=Geometry/RPCGeometry>
-<use name=Geometry/Records>
-<use name=FWCore/Framework>
-
-#<flags CXXFLAGS="-g -O0">
-
-<flags SEAL_PLUGIN_NAME="testGeometryRPCGeometry">
-<library file=RPCGeometryAnalyzer.cc name=testGeometryRPCGeometry>
-</library>
