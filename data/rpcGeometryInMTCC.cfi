@@ -1,0 +1,7 @@
+#
+# This cfi should be included to build the RPC geometry model.
+#
+
+include "Geometry/RPCGeometry/data/rpcGeometry.cfi"
+replace RPCGeometryESModule.compatibiltyWith11 = false
+
