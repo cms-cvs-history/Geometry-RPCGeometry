@@ -322,4 +322,5 @@ RPCGeometryAnalyzer::analyze( const edm::Event& iEvent, const edm::EventSetup& i
 
 //define this as a plug-in
 #include <FWCore/Framework/interface/MakerMacros.h>
-DEFINE_FWK_MODULE(RPCGeometryAnalyzer)
+DEFINE_FWK_MODULE(RPCGeometryAnalyzer);
+
