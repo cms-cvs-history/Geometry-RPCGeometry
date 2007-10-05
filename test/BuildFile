@@ -7,3 +7,5 @@
 <flags EDM_PLUGIN=1>
 <library file=RPCGeometryAnalyzer.cc name=testGeometryRPCGeometry>
 </library>
+<library file=RPCSectorAnalyzer.cc name=testGeometryRPCSector>
+</library>
