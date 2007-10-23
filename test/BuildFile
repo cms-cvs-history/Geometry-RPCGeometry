@@ -9,3 +9,5 @@
 </library>
 <library file=RPCSectorAnalyzer.cc name=testGeometryRPCSector>
 </library>
+<library file=RPCRadiiAnalyzer.cc name=testGeometryRPCRadii>
+</library>
