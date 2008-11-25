@@ -11,3 +11,6 @@
 </library>
 <library file=RPCRadiiAnalyzer.cc name=testGeometryRPCRadii>
 </library>
+<library file=RPCGEO.cc name=testGeometryRPCGEO>
+</library>
+
