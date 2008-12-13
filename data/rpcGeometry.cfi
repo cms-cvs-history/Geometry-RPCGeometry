@@ -1,7 +1,0 @@
-#
-# This cfi should be included to build the RPC geometry model.
-#
-
-es_module = RPCGeometryESModule { 
-    untracked bool compatibiltyWith11=true
-}
