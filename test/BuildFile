@@ -1,6 +1,7 @@
 <use name=Geometry/RPCGeometry>
 <use name=Geometry/Records>
 <use name=FWCore/Framework>
+<use name=Geometry/CSCGeometry>
 
 #<flags CXXFLAGS="-g -O0">
 
@@ -12,5 +13,7 @@
 <library file=RPCRadiiAnalyzer.cc name=testGeometryRPCRadii>
 </library>
 <library file=RPCGEO.cc name=testGeometryRPCGEO>
+</library>
+<library file =RPCCSC.cc name=testGeometryRPCCSC>
 </library>
 
